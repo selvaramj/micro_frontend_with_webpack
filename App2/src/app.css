@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "ubentu-regular", sans-serif;
+}
+
+@font-face {
+  font-family: "ubentu-regular";
+  src: url("../public/fonts/Ubuntu-Regular.ttf");
+}
+
+@font-face {
+  font-family: "ubentu-bold";
+  src: url("../public/fonts/Ubuntu-Bold.ttf");
+}
